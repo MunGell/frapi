@@ -1,0 +1,13 @@
+{
+    "name": "mungell/frapi",
+    "description": "FRAPI composer package",
+    "authors": [
+        {
+            "name": "Shmavon Gazanchyan",
+            "email": "sgazanchyan@gmail.com"
+        }
+    ],
+    "require": {
+        "zendframework/zendframework1": "1.12.11"
+    }
+}
