@@ -1,0 +1,35 @@
+{
+  "name": "frapi",
+  "version": "1.0.0",
+  "description": "This is the FRAPI public repository",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MunGell/frapi.git"
+  },
+  "author": "Shmavon Gazanchyan <sgazanchyan@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MunGell/frapi/issues"
+  },
+  "homepage": "https://github.com/MunGell/frapi",
+  "devDependencies": {
+    "gulp": "*",
+    "gulp-less": "*",
+    "gulp-jade": "*",
+    "gulp-copy": "*",
+    "gulp-csso": "*",
+    "gulp-util": "*",
+    "gulp-data": "*",
+    "gulp-watch": "*",
+    "gulp-filter": "*",
+    "gulp-concat": "*",
+    "gulp-rename": "*",
+    "gulp-uglify": "*",
+    "gulp-flatten": "*",
+    "gulp-connect": "*",
+    "gulp-load-plugins": "*"
+  }
+}
